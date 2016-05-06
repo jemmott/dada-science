@@ -4,8 +4,9 @@ Created on Tue Jan 27 16:56:03 2015
 
 @author: Colin
 
-This is a very quick and dirty way of finding optimal pairings based on symetric 
-weightings
+This is a very quick and dirty way of finding optimal pairings based on 
+asymmetric and complete pairwise ratings.  Full stochastic, but what's life 
+without a little luck?
 
 """
 
